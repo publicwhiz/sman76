@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'educavoicon';
+    src: url('educavoicon.eot');
+    src: url('educavoicon.eot?#iefix') format('embedded-opentype'),
+         url('educavoicon.woff2') format('woff2'),
+         url('educavoicon.woff') format('woff'),
+         url('educavoicon.ttf')  format('truetype'),
+         url('educavoicon.svg#educavoicon') format('svg');
+}

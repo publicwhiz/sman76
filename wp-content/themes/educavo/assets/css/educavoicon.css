@@ -1,0 +1,90 @@
+	/*
+  	educavoicon icon font: educavoicon
+  	Creation date: 10/09/2019 11:56
+  	*/
+
+@font-face {
+  font-family: "educavoicon";
+  src: url("../fonts/educavoicon.eot");
+  src: url("../fonts/educavoicon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/educavoicon.woff") format("woff"),
+       url("../fonts/educavoicon.ttf") format("truetype"),
+       url("../fonts/educavoicon.svg#educavoicon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "educavoicon";
+    src: url("./educavoicon.svg#educavoicon") format("svg");
+  }
+}
+
+[class^="educavoicon-"]:before, [class*=" educavoicon-"]:before,
+[class^="educavoicon-"]:after, [class*=" educavoicon-"]:after {   
+    font-family: educavoicon;
+    font-size: 60px;
+    font-style: normal;
+}
+
+[class^="educavoicon-"]:before, [class*=" educavoicon-"]:before,
+[class^="educavoicon-"]:after, [class*=" educavoicon-"]:after {   
+  font-family: educavoicon;
+  font-size: 16px;
+  font-style: normal;
+}
+
+.educavoicon-best:before { content: "\f100"; }
+.educavoicon-flower:before { content: "\f101"; }
+.educavoicon-timer:before { content: "\f102"; }
+.educavoicon-suitcase:before { content: "\f103"; }
+.educavoicon-chess-piece:before { content: "\f104"; }
+.educavoicon-clock:before { content: "\f105"; }
+.educavoicon-time-call:before { content: "\f106"; }
+.educavoicon-phone:before { content: "\f107"; }
+.educavoicon-call:before { content: "\f108"; }
+.educavoicon-email:before { content: "\f109"; }
+.educavoicon-location:before { content: "\f10a"; }
+.educavoicon-send:before { content: "\f10b"; }
+.educavoicon-bag:before { content: "\f10c"; }
+.educavoicon-supermarket:before { content: "\f10d"; }
+.educavoicon-basket:before { content: "\f10e"; }
+.educavoicon-shopping-bag:before { content: "\f10f"; }
+.educavoicon-right-arrow:before { content: "\f110"; }
+.educavoicon-left-arrow:before { content: "\f111"; }
+.educavoicon-back:before { content: "\f112"; }
+.educavoicon-right-arrow-1:before { content: "\f113"; }
+.educavoicon-next:before { content: "\f114"; }
+.educavoicon-back-1:before { content: "\f115"; }
+.educavoicon-upload:before { content: "\f116"; }
+.educavoicon-next-1:before { content: "\f117"; }
+.educavoicon-ui:before { content: "\f118"; }
+.educavoicon-next-2:before { content: "\f119"; }
+.educavoicon-back-2:before { content: "\f11a"; }
+.educavoicon-play-button:before { content: "\f11b"; }
+.educavoicon-play-button-1:before { content: "\f11c"; }
+.educavoicon-picture:before { content: "\f11d"; }
+.educavoicon-image:before { content: "\f11e"; }
+.educavoicon-gallery:before { content: "\f11f"; }
+.educavoicon-pictures:before { content: "\f120"; }
+.educavoicon-unlink:before { content: "\f121"; }
+.educavoicon-link:before { content: "\f122"; }
+.educavoicon-link-1:before { content: "\f123"; }
+.educavoicon-link-2:before { content: "\f124"; }
+.educavoicon-speaker:before { content: "\f125"; }
+.educavoicon-speaker-1:before { content: "\f126"; }
+.educavoicon-picture-1:before { content: "\f127"; }
+.educavoicon-picture-2:before { content: "\f128"; }
+.educavoicon-right-quote:before { content: "\f129"; }
+.educavoicon-error:before { content: "\f12a"; }
+.educavoicon-cross:before { content: "\f12b"; }
+.educavoicon-search:before { content: "\f12c"; }
+.educavoicon-shopping-bag-1:before { content: "\f12d"; }
+.educavoicon-eye:before { content: "\f12e"; }
+.educavoicon-user:before { content: "\f12f"; }
+.educavoicon-user-1:before { content: "\f130"; }
+.educavoicon-clock-1:before { content: "\f131"; }
+.educavoicon-comment:before { content: "\f132"; }
+.educavoicon-folder:before { content: "\f133"; }
+.educavoicon-price-tag:before { content: "\f134"; }

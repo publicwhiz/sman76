@@ -1,0 +1,267 @@
+.header-right.f-right.d-none.d-lg-block {
+	float: left;
+	margin-left: 0;
+	margin-right: 60px;
+}
+.play-btn.popup-video {
+	margin-left: 0;
+	margin-right: 27px;
+}
+.header-info span {
+	margin-right: 0;
+	margin-left: 35px;
+	display: inline-block;
+}
+.header-info span i {
+	margin-right: 0;
+	margin-left: 10px;
+}
+.f-right {
+	float: left;
+}
+.header-social-icons ul li a {
+	margin-left: 0;
+	margin-right: 16px;
+}
+.about-right-side {
+	padding-left: 0;
+	padding-right: 30px;
+}
+.mv-title p {
+	padding-right: 0;
+	padding-left: 73px;
+}
+.subscribe-form form button {
+	right: auto;
+	left: 10px;
+}
+.news-meta ul li a i {
+	margin-right: 0;
+	margin-left: 4px;
+}
+.news-meta ul li {
+	margin-right: 0;
+	margin-left: 14px;
+}
+.mv-icon.f-left {
+	float: right;
+}
+.single-item .mv-icon {
+	margin-right: 0;
+	margin-left: 30px;
+}
+.footer-subsccribe form button {
+	right: auto;
+	left: 0;
+}
+.header__menu ul li:hover > ul.sub-menu {
+	text-align: right;
+}
+.header-right {
+	margin-right: 60px;
+	margin-left: 0;
+}
+.header-2-icon {
+	margin-left: 23px;
+	margin-right: 0;
+}
+.about-text-list ul li i {
+	margin-right: 0;
+	margin-left: 20px;
+}
+.about-title h1 {
+	padding-right: 0;
+	padding-left: 15px;
+}
+.service-content-2 h3 a::after, .service-content-2 h3 a::before {
+	left: auto;
+	right: 0;
+}
+.service-content.service-content-2 p {
+	padding-right: 0;
+	padding-left: 30px;
+}
+.testi-content-2 p {
+	padding-right: 0;
+	padding-left: 45px;
+}
+.testi-author-icon-2 {
+	margin-right: 0;
+	margin-left: 30px;
+}
+.pr-15 {
+	padding-right: 0;
+	padding-left: 15px;
+}
+.header-cta-info {
+	float: right;
+}
+.header-menu-search {
+	margin-left: 0;
+	margin-right: 24px;
+}
+.membership-review .author-ava {
+	margin-right: 0;
+	margin-left: 15px;
+}
+.faq-back-shape {
+	right: -130px;
+	left: auto;
+}
+.calculate-section .section-text p {
+	padding-right: 0;
+	padding-left: 35px;
+}
+.professinals-list li i {
+	margin-left: 20px;
+	float: right;
+	margin-right: 0;
+}
+.section-text-green p {
+	padding-left: 90px;
+	padding-right: 0;
+}
+.f-left {
+	float: right;
+}
+.ser-fea-icon {
+	margin-left: 20px;
+	margin-right: 0;
+}
+.ser-fea-list ul li i {
+	margin-left: 9px;
+	margin-right: 0;
+}
+.cta-satisfied {
+	padding-right: 129px;
+	padding-left: 0;
+}
+.single-satisfied h5 i {
+	margin-left: 5px;
+	margin-right: 0;
+}
+.service-details-text p {
+	padding-left: 16px;
+	padding-right: 0;
+}
+.ser-fea-box {
+	margin-left: 40px;
+	margin-right: 0;
+}
+.service-content-inner span {
+	margin-left: 20px;
+	float: right;
+	margin-right: 0;
+}
+.sidebar-search-form button {
+	right: auto;
+	left: 0;
+}
+.blog-tags {
+	right: 30px;
+	left: auto;
+}
+.widget .widget-title::after {
+	right: 0px;
+	left: auto;
+}
+.post-meta span {
+	margin-left: 20px;
+	margin-right: 0;
+}
+.post-meta span i {
+	margin-left: 2px;
+	margin-right: 0;
+}
+.breadcrumb-menu li:not(:last-child)::after {
+	left: -6px;
+	right: auto;
+}
+blockquote cite::before {
+	margin-left: 30px;
+	margin-right: 0;
+}
+.slide-bar {
+	z-index: 99999;
+}
+.header__menu.menu-dark ul li:first-child {
+	margin-left: 30px;
+}
+
+
+
+/*Beakai RTL Responsive CSS */
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.latest-news-content {
+	padding-right: 30px;
+}
+.cta-satisfied {
+	padding-right: 0;
+}
+
+
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.side-mobile-menu ul li.has-children > a::after {
+	left: 16px;
+}
+.side-mobile-menu ul li.has-children > a::after {
+	right: auto;
+	left: 16px;
+}
+.cta-satisfied {
+	padding-right: 0;
+}
+
+
+}
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.side-mobile-menu ul li.has-children > a::after {
+	right: auto;
+	left: 16px;
+}
+.about-text-list ul li i {
+	float: right;
+}
+.about-right-side {
+	padding-right: 0;
+}
+.blog-feeds-thumb {
+	float: right;
+	margin-right: 0;
+	margin-left: 15px;
+}
+.open-mobile-menu a {
+	margin-left: 0;
+	margin-right: 20px;
+}
+.cta-satisfied {
+	padding-right: 0;
+}
+
+
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 570px) and (max-width: 767px) {
+.side-mobile-menu ul li.has-children > a::after {
+	right: auto;
+	left: 16px;
+}
+
+
+}

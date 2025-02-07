@@ -1,0 +1,91 @@
+
+---Downloaded files---
+The import files for: Home were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8080/sman76
+Data file = C:\xampp\htdocs\sman76/wp-content/themes/beakai/sample-data/contents-demo.xml
+Widget file = C:\xampp\htdocs\sman76/wp-content/themes/beakai/sample-data/widget-settings.json
+Customizer file = C:\xampp\htdocs\sman76/wp-content/themes/beakai/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "faq-left-back-shape" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Imported
+Beakai Sidebar Posts Image - Recent Post - Imported
+Categories - Categories - Imported
+Tag Cloud - Tags - Imported
+Image - No Title - Imported
+
+Footer 1 : 
+
+Custom HTML - No Title - Imported
+
+Footer 2 : 
+
+Navigation Menu - Quick Links. - Imported
+
+Footer 3 : 
+
+Beakai Footer Posts Image - Recent Post. - Imported
+
+Footer 4 : 
+
+Instagram Widget by WPZOOM (Legacy) - Instagram. - Imported
+
+Service Sidebar : 
+
+Beakai Services List - More Services - Imported
+Beakai Contact From - Get Some Advice? - Imported
+Image - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
